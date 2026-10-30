@@ -1,6 +1,7 @@
 data*/
 result/
 *.png
+dehydrated_xylem_human_vs_cellpose/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
